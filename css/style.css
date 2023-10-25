@@ -7,28 +7,27 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content:center;
-	height: 100vh;
-	width: 100vw;
+	height: 90vh;
+	width: 90vw;
 }
 
 #container {
-  
+	background-color: #B00000;
 	width: 200px;
 	padding: 8px 8px 20px 8px;
 	margin: 20px auto;
-	background-color: #e12525;
 	border-radius: 4px;
 	border-top: 2px solid #FFF;
 	border-right: 2px solid #FFF;
 	border-bottom: 2px solid #C1C1C1;
 	border-left: 2px solid #C1C1C1;
-	box-shadow: -3px 3px 7px rgba(0, 0, 0, .6), inset -100px 0px 100px rgba(255, 255, 255, .5);
+	box-shadow: -3px 3px 7px rgba(157, 151, 151, 0.6), inset -100px 0px 100px rgba(255, 255, 255, .5);
 }
 
 #display {
 	display: block;
 	margin: 15px auto;
-	height: 250px;
+	height: 210px;
 	width: 300px;
 	padding: 0 10px;
 	border-radius: 4px;
